@@ -1,0 +1,10 @@
+.profile-picture img {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.list-group-item-action .user-info {
+    position: relative;
+    top: 15px;
+}
+
